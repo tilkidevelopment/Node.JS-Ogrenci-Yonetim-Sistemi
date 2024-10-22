@@ -1,0 +1,15 @@
+{
+  "name": "ogrenci-api",
+  "version": "1.0.0",
+  "description": "Öğrenci ekleme ve sorgulama API'si",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Tilki",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "path": "^0.12.7"
+  }
+}
